@@ -1,21 +1,18 @@
 ## Soal-Pre-Test PEMPROS
 
-Suatu hari, seorang anak muda yang bernama Ucok diminta untuk membuat miniatur rumah kecil dengan menggunakan bahan yang seadanya. Untuk menyelesaikan tugas tersebut, Ucok perlu mengetahui keliling rumah tersebut. Berikut adalah bentuk rumahnya:
-<img src="https://github.com/danismg/Soal-Pre-Test/blob/main/img/Img_pre-test_PEMPROS.png" align="center" height="400" width="750">
-
-Bantulah Ucok dengan membuat kalkulator sederhana untuk menghitung keliling bangun tersebut!
+Pada suatu hari, raka ikut dalam kompetisi ajang bergengsi yaitu debat camapres( calon mahasiswa berprestasi). Dalam debat tersebut, raka diminta untuk membuat menghitung biaya yang dibutuhkan untuk pembanguan dari permasalahan pembangunan infrastruktur kota. Berikut ilustrasi penggambaran tata Kelola kota yang akan diberikan. 
+<img src="https://github.com/danismg/post-test-part2/blob/main/denah%20bangun.png" align="center" > <br>
+Bantulah raka untuk menghitung biaya bangunan yang dibutuhkan untuk membangun bangunan tersebut.
 
 ### Keterangan:
-
 <br>
-Pada input terdapat dua segment yaitu panjang `n` yang menggambarkan sisi horizontal dari persegi panjang, sedangkan untuk input panjang `m` yang menggambarkan sisi vertikal dari persegi panjang dan panjang setiap sisi segitiga. Kedua input tersebut bertipe data `int`. Program tersebut akan menghitung keliling bangun dari gambar diatas dan menampilkan hasil dari kalkulasi dalam bentuk 1 baris luaran(output).
-<br>
+<img src="https://github.com/danismg/post-test-part2/blob/main/Screenshot%202024-01-22%20140519.png" align="center" >
 
 **Perhatikan format struktur input :**
 
 ```
-n
-m
+Panjang bangunan
+Lebar bangunan
 
 ```
 
@@ -24,7 +21,7 @@ m
 **Perhatikan format struktur output :**
 
 ```
-Keliling Bangun
+Biaya yang dibutuhkan
 
 ```
 
@@ -35,15 +32,15 @@ Keliling Bangun
 Berikut adalah contoh masukan yang diberikan.
 
 ```
-30
-40
+7
+5
 
 ```
 
 Berikut adalah keluaran yang diharapkan.
 
 ```
-179
+61800000
 
 ```
 
@@ -52,14 +49,14 @@ Berikut adalah keluaran yang diharapkan.
 Berikut adalah contoh masukan yang diberikan.
 
 ```
-50
-30
+6
+8
 
 ```
 
 Berikut adalah keluaran yang diharapkan.
 
 ```
-190
+72100000
 
 ```
